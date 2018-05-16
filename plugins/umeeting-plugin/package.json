@@ -1,0 +1,17 @@
+{
+  "name": "umeeting-plugin",
+  "version": "1.0.0",
+  "description": "umeeting sdk 调用",
+  "cordova": {
+    "id": "umeeting-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jerome",
+  "license": "ISC"
+}
